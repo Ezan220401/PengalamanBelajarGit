@@ -18,5 +18,5 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 39%)
   - Progress Belajar
 
 ** Agustus 2023**
-Belajar kelas Belajar Dasar Git dengan GitHub. (Progres %)
+Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 52%)
 * Git Branches
